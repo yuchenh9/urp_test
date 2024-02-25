@@ -4,7 +4,7 @@ unity version: 2022.3.12.<br>
 To test the webgl build in your browser, run the following code:
 
 ```bash
-cd test_project_build/test1
+cd urp_test/test_project_build/test1
 npm i
 node server.js
 
